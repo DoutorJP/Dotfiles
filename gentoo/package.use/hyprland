@@ -1,0 +1,4 @@
+media-libs/mesa wayland
+gui-libs/wlroots x11-backend
+x11-libs/gtk+ wayland
+gui-wm/hyprland sys-devel/gcc-13

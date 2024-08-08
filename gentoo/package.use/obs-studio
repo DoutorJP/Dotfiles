@@ -1,0 +1,3 @@
+media-video/ffmpeg x264
+dev-qt/qtbase opengl
+dev-qt/qttools opengl

@@ -1,0 +1,49 @@
+sys-boot/grub mount
+# required by media-gfx/graphviz-7.0.4::gentoo
+# required by app-doc/doxygen-1.9.5::gentoo[dot]
+# required by sys-apps/dbus-1.15.2::gentoo[doc]
+# required by sys-auth/elogind-246.10-r2::gentoo
+# required by sys-auth/polkit-122::gentoo[-systemd]
+>=media-libs/gd-2.3.3-r1 truetype
+# required by app-text/texlive-core-2021-r5::gentoo
+# required by dev-texlive/texlive-bibtexextra-2021::gentoo
+# required by app-doc/doxygen-1.9.5::gentoo[doc]
+# required by sys-apps/dbus-1.15.2::gentoo[doc]
+# required by sys-auth/elogind-246.10-r2::gentoo
+# required by sys-auth/polkit-122::gentoo[-systemd]
+>=media-libs/harfbuzz-5.3.1-r1 icu
+# required by dev-libs/icu-72.1::gentoo[doc]
+# required by media-libs/harfbuzz-5.3.1-r1::gentoo[icu]
+# required by x11-libs/pango-1.50.12::gentoo
+# required by media-gfx/graphviz-7.0.4::gentoo[cairo]
+# required by dev-python/sphinx-5.3.0::gentoo[doc]
+# required by dev-python/sphinx_rtd_theme-1.1.1::gentoo
+# required by dev-python/more-itertools-9.0.0::gentoo[doc]
+# required by dev-python/jaraco-text-3.10.0::gentoo
+# required by dev-python/setuptools-65.5.1::gentoo
+# required by sys-apps/portage-3.0.41::gentoo
+# required by virtual/package-manager-1::gentoo
+# required by @system
+# required by @world (argument)
+>=app-doc/doxygen-1.9.5 dot
+# required by media-libs/fontconfig-2.14.1-r1::gentoo[doc]
+# required by media-fonts/source-code-pro-2.038::gentoo
+# required by dev-lang/nasm-2.15.05::gentoo[doc]
+# required by media-libs/libjpeg-turbo-2.1.4::gentoo[-x64-macos,-x64-cygwin,-amd64-linux,-x86-linux]
+# required by virtual/jpeg-100-r1::gentoo
+# required by media-libs/gd-2.3.3-r1::gentoo[jpeg]
+# required by app-text/texlive-core-2021-r5::gentoo
+# required by dev-texlive/texlive-bibtexextra-2021::gentoo
+# required by app-doc/doxygen-1.9.5::gentoo[doc]
+# required by sys-apps/dbus-1.15.2::gentoo[doc]
+# required by sys-auth/elogind-246.10-r2::gentoo
+# required by sys-auth/polkit-122::gentoo[-systemd]
+>=app-text/docbook-sgml-utils-0.6.14-r5 jadetex
+# required by dev-texlive/texlive-xetex-2021-r1::gentoo
+# required by dev-texlive/texlive-formatsextra-2021::gentoo
+# required by app-text/xmlto-0.0.28-r10::gentoo[latex]
+# required by sys-apps/portage-3.0.41::gentoo[doc]
+# required by virtual/package-manager-1::gentoo
+# required by @system
+# required by @world (argument)
+>=app-text/texlive-core-2021-r5 xetex

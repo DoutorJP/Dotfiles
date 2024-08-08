@@ -1,0 +1,3 @@
+app-editors/emacs gui gsettings gpm gtk gzip-el harfbuzz lcms xft threads -systemd source dynamic-loading gif gzip-el png
+app-emacs/emacs-common gsettings
+

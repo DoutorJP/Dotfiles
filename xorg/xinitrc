@@ -1,0 +1,7 @@
+setxkbmap -layout us -variant intl -option ctrl:swapcaps
+xbindkeys
+xrdb .Xresources
+nitrogen --restore
+sh .local/bar.sh &
+unclutter &
+exec dwm

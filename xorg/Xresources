@@ -1,8 +1,9 @@
 st.alpha: 0.90
 st.alphaOffset: 0.1
+Xcursor.theme: Bibata-Modern-Ice
 
 *background: #030508
-*foreground: #6a6a6a
+*foreground: #ffffff
 
 ! *foreground: #CDD6F4
 
